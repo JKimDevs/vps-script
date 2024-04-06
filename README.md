@@ -6,5 +6,5 @@ wget https://raw.githubusercontent.com/JKimDevs/vps-script/main/ubuntu.sh && chm
 
 # debian ssh/dnstt:
 ```
-wget https://raw.githubusercontent.com/JKimDevs/vps-script/main/debian.sh && chmod +x debian.sh && ./debian.sh
+wget https://raw.githubusercontent.com/JKimDevs/vps-script/main/debian.sh && chmod +x debian.sh && ./debian.sh && sudo ./debian.sh
 ```
